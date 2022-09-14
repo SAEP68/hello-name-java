@@ -5,6 +5,7 @@ public class Hello {
        // Your code goes here the lines below will help
        // but are not an answer to the tutorial
        Scanner scanner = new Scanner(System.in);
+
        System.out.println("Your text");
        System.out.println("Your answer");
     }
